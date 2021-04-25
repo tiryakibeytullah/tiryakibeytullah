@@ -47,7 +47,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/beytullah-tiryaki-a98b98177/"><img src="https://img.shields.io/badge/-Beytullah%20Tiryaki%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tiryakibeytullah10@gmail.com"><img src="https://img.shields.io/badge/-tiryakibeytullah10@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/beytullahtryk/?hl=tr"><img src="https://img.shields.io/badge/-@tiraykibeytullah-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/beytullahtryk/?hl=tr"><img src="https://img.shields.io/badge/-@tiryakibeytullah-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
