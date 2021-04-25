@@ -2,9 +2,10 @@
 
 ### I'm a Software Engineer !!
 
-- 🔭 I started this business in my high school life ,
-- 🌱 I code with love and pleasure ,
-- 👯 I like to improve myself in this field in my spare time
+- 🎓 I started this business in my high school life ,
+- ✍️ I code with love and pleasure ,
+- 💡 I like to improve myself in this field in my spare time
+- 💬 I want to develop my career by signing good works and projects in the future.
  
 <br />
 
